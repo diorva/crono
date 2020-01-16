@@ -1,5 +1,16 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Screenshots
+
+### Initial State
+![Image 1](screenshots/c.png)
+
+### Running Timer
+![Image 2](screenshots/a.png)
+
+### Paused Timer
+![Image 3](screenshots/b.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
